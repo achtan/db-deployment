@@ -1,0 +1,7 @@
+Started at [2013/06/05 10:49]
+Config file is /www/db-deployment/tests/deployment/config.ini
+Deploying
+(1 of 2) 1-create-table.sql	-- 1 query executed
+(2 of 2) 3-insert-row.sql	-- 1 query executed
+
+Finished at [2013/06/05 10:49]
